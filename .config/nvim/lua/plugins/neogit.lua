@@ -7,4 +7,5 @@ return {
     "ibhagwan/fzf-lua",
   },
   config = true,
+  keys = { { "<leader>g", "<cmd>Neogit<cr>", desc = "Neogit toggle" } },
 }
